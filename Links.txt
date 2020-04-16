@@ -1,0 +1,14 @@
+
+COMMON:
+https://www.cprogramming.com/tutorial.html
+
+ELECTRONIC:
+http://www.elektronik-kompendium.de/
+https://stackoverflow.com/questions/9130395/how-to-simulate-a-digital-circuit-with-c-just-input-output-no-graphics
+http://www.ibiblio.org/kuphaldt/socratic/model/
+http://www.elektronik.nmp24.de/?C-Programmierung:wxDev-C%2B%2B:Stoppuhr_mit_wxDev-C%2B%2B
+
+SYSTEMC:
+https://www.accellera.org/downloads/standards/systemc
+http://electrosofts.com/systemC/
+https://github.com/AleksandarKostovic/SystemC-tutorial
